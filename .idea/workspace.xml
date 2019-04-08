@@ -12,6 +12,7 @@
     <session id="-1718683222">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -19,6 +20,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="1" />
+          <entry key="java" value="1" />
           <entry key="js" value="1" />
           <entry key="test" value="1" />
           <entry key="yml" value="1" />
@@ -27,6 +29,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
+          <entry key="JAVA" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Scratch" value="1" />
           <entry key="YAML" value="1" />
@@ -49,7 +52,17 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/service/JobServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -76,8 +89,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="133" />
-    <option name="y" value="-23" />
+    <option name="x" value="132" />
+    <option name="y" value="-24" />
     <option name="width" value="1443" />
     <option name="height" value="945" />
   </component>
@@ -92,6 +105,87 @@
             <path>
               <item name="Study-Notes" type="b2602c69:ProjectViewProjectNode" />
               <item name="Study-Notes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study-Notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study-Notes" type="462c0819:PsiDirectoryNode" />
+              <item name="定时任务" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study-Notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study-Notes" type="462c0819:PsiDirectoryNode" />
+              <item name="定时任务" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-quartz-demo-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study-Notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study-Notes" type="462c0819:PsiDirectoryNode" />
+              <item name="定时任务" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-quartz-demo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study-Notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study-Notes" type="462c0819:PsiDirectoryNode" />
+              <item name="定时任务" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-quartz-demo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study-Notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study-Notes" type="462c0819:PsiDirectoryNode" />
+              <item name="定时任务" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-quartz-demo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study-Notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study-Notes" type="462c0819:PsiDirectoryNode" />
+              <item name="定时任务" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-quartz-demo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study-Notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study-Notes" type="462c0819:PsiDirectoryNode" />
+              <item name="定时任务" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-quartz-demo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pingan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study-Notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study-Notes" type="462c0819:PsiDirectoryNode" />
+              <item name="定时任务" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-quartz-demo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pingan" type="462c0819:PsiDirectoryNode" />
+              <item name="fimax" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study-Notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study-Notes" type="462c0819:PsiDirectoryNode" />
+              <item name="定时任务" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-quartz-demo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pingan" type="462c0819:PsiDirectoryNode" />
+              <item name="fimax" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Study-Notes" type="b2602c69:ProjectViewProjectNode" />
@@ -114,7 +208,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553245827127" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554703744450" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -142,7 +236,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553243212110</updated>
-      <workItem from="1553243214416" duration="1716000" />
+      <workItem from="1553243214416" duration="2393000" />
     </task>
     <task id="LOCAL-00001" summary="1111">
       <created>1553243366883</created>
@@ -162,7 +256,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1716000" />
+    <option name="totallyTimeSpent" value="2393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -172,8 +266,9 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31285366" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18593371" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -227,6 +322,13 @@
     <entry file="file://$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/service/JobServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        </state>
       </provider>
     </entry>
   </component>

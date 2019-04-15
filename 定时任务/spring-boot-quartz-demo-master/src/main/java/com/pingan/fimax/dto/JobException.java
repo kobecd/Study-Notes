@@ -1,9 +1,9 @@
-package com.pingan.fimax.dto;
+package xxx.xxx.xxx.dto;
 
-import com.pingan.fimax.enums.JobErrorCodeEnum;
+import xxx.xxx.xxx.enums.JobErrorCodeEnum;
 
 /**
- * @Author: chendong
+ * @Author:xxx
  * @Date: 2019/3/12 15:08
  */
 public class JobException extends RuntimeException {

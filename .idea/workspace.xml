@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7452e681-72b1-4852-850d-735c3e705805" name="Default Changelist" comment="" />
+    <list default="true" id="7452e681-72b1-4852-850d-735c3e705805" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/SpringBootQuartzAppApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/SpringBootQuartzAppApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/config/AutowiringSpringBeanJobFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/config/AutowiringSpringBeanJobFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/config/PersistableCronTriggerFactoryBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/config/PersistableCronTriggerFactoryBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/config/QuartzSchedulerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/config/QuartzSchedulerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/controller/JobController.java" beforeDir="false" afterPath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/controller/JobController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/dto/JobException.java" beforeDir="false" afterPath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/dto/JobException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/dto/QuartzProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/dto/QuartzProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/dto/ServerResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/dto/ServerResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/enums/JobErrorCodeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/enums/JobErrorCodeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/enums/ResponseCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/enums/ResponseCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/job/JobTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/job/JobTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/service/JobService.java" beforeDir="false" afterPath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/service/JobService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/service/JobServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/service/JobServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/service/JobUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/service/JobUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/service/JobsListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/service/JobsListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/service/TriggerListner.java" beforeDir="false" afterPath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/service/TriggerListner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/util/ServerResponseCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/util/ServerResponseCode.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,15 +32,17 @@
     <session id="-1718683222">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="1" />
-          <entry key="java" value="1" />
+          <entry key="java" value="11" />
           <entry key="js" value="1" />
           <entry key="test" value="1" />
           <entry key="yml" value="1" />
@@ -29,7 +51,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="11" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Scratch" value="1" />
           <entry key="YAML" value="1" />
@@ -40,6 +62,7 @@
           <entry key="html" value="11" />
           <entry key="js" value="8" />
           <entry key="txt" value="4" />
+          <entry key="xml" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -47,17 +70,61 @@
           <entry key="HTML" value="11" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="Scratch" value="8" />
+          <entry key="XML" value="7" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/service/JobServiceImpl.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/config/QuartzSchedulerConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+            <state relative-caret-position="1056">
+              <caret line="65" column="7" lean-forward="true" selection-start-line="65" selection-start-column="7" selection-end-line="65" selection-end-column="7" />
+              <folding>
+                <element signature="e#1288#1289#0" expanded="true" />
+                <element signature="e#1344#1345#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/SpringBootQuartzAppApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/enums/JobErrorCodeEnum.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/enums/ResponseCode.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/job/CronJob.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#1846#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/job/JobTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -71,6 +138,18 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>com.pingan</find>
+      <find>fimax</find>
+      <find>chendong</find>
+      <find>com</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>xxx.xxx</replace>
+      <replace>xxx</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -79,6 +158,9 @@
       <list>
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" />
         <option value="$PROJECT_DIR$/test1/11.html" />
+        <option value="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/config/QuartzSchedulerConfig.java" />
+        <option value="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/SpringBootQuartzAppApplication.java" />
+        <option value="$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/job/JobTest.java" />
       </list>
     </option>
   </component>
@@ -185,7 +267,94 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="pingan" type="462c0819:PsiDirectoryNode" />
               <item name="fimax" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study-Notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study-Notes" type="462c0819:PsiDirectoryNode" />
+              <item name="定时任务" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-quartz-demo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pingan" type="462c0819:PsiDirectoryNode" />
+              <item name="fimax" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study-Notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study-Notes" type="462c0819:PsiDirectoryNode" />
+              <item name="定时任务" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-quartz-demo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pingan" type="462c0819:PsiDirectoryNode" />
+              <item name="fimax" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study-Notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study-Notes" type="462c0819:PsiDirectoryNode" />
+              <item name="定时任务" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-quartz-demo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pingan" type="462c0819:PsiDirectoryNode" />
+              <item name="fimax" type="462c0819:PsiDirectoryNode" />
+              <item name="enums" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study-Notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study-Notes" type="462c0819:PsiDirectoryNode" />
+              <item name="定时任务" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-quartz-demo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pingan" type="462c0819:PsiDirectoryNode" />
+              <item name="fimax" type="462c0819:PsiDirectoryNode" />
+              <item name="job" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study-Notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study-Notes" type="462c0819:PsiDirectoryNode" />
+              <item name="定时任务" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-quartz-demo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pingan" type="462c0819:PsiDirectoryNode" />
+              <item name="fimax" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study-Notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study-Notes" type="462c0819:PsiDirectoryNode" />
+              <item name="定时任务" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-quartz-demo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pingan" type="462c0819:PsiDirectoryNode" />
+              <item name="fimax" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study-Notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study-Notes" type="462c0819:PsiDirectoryNode" />
+              <item name="定时任务" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-quartz-demo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Study-Notes" type="b2602c69:ProjectViewProjectNode" />
@@ -208,11 +377,126 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554703744450" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554703970086" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Study-Notes\学习笔记" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/resources/application.yml</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -237,6 +521,8 @@
       <option name="presentableId" value="Default" />
       <updated>1553243212110</updated>
       <workItem from="1553243214416" duration="2393000" />
+      <workItem from="1554964221178" duration="196000" />
+      <workItem from="1555306936576" duration="317000" />
     </task>
     <task id="LOCAL-00001" summary="1111">
       <created>1553243366883</created>
@@ -256,23 +542,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2393000" />
+    <option name="totallyTimeSpent" value="2909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18593371" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2700081" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -280,15 +561,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3291815" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,20 +591,8 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test1/11.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test" />
+    <entry file="file://$PROJECT_DIR$/test1/11.html" />
     <entry file="file://$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-330" />
@@ -328,6 +602,68 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
           <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习笔记/学习笔记.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/util/ServerResponseCode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/controller/JobController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2772" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/dto/QuartzProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/config/QuartzSchedulerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="65" column="7" lean-forward="true" selection-start-line="65" selection-start-column="7" selection-end-line="65" selection-end-column="7" />
+          <folding>
+            <element signature="e#1288#1289#0" expanded="true" />
+            <element signature="e#1344#1345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/SpringBootQuartzAppApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/enums/JobErrorCodeEnum.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/enums/ResponseCode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/job/CronJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1846#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/定时任务/spring-boot-quartz-demo-master/src/main/java/com/pingan/fimax/job/JobTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>

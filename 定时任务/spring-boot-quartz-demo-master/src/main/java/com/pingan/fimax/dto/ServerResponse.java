@@ -1,4 +1,4 @@
-package com.pingan.fimax.dto;
+package xxx.xxx.xxx.dto;
 
 public class ServerResponse {
 	private int statusCode;

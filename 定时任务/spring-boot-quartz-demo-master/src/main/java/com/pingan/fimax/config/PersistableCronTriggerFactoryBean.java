@@ -1,4 +1,4 @@
-package com.pingan.fimax.config;
+package xxx.xxx.xxx.config;
 
 import java.text.ParseException;
 

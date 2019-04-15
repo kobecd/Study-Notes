@@ -1,6 +1,6 @@
-package com.pingan.fimax.job;
+package xxx.xxx.xxx.job;
 
-import com.pingan.fimax.service.JobService;
+import xxx.xxx.xxx.service.JobService;
 import org.quartz.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.scheduling.quartz.QuartzJobBean;
@@ -10,7 +10,7 @@ import java.util.Date;
 
 
 /**
- * @Author: chendong
+ * @Author:xxx
  * @Date: 2019/3/7 9:36
  */
 public class JobTest extends QuartzJobBean implements InterruptableJob {

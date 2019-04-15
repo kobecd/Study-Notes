@@ -1,4 +1,4 @@
-package com.pingan.fimax.service;
+package xxx.xxx.xxx.service;
 
 import org.quartz.JobExecutionContext;
 import org.quartz.Trigger;

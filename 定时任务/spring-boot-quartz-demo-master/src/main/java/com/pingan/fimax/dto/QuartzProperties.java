@@ -1,4 +1,4 @@
-package com.pingan.fimax.dto;
+package xxx.xxx.xxx.dto;
 
 import com.alibaba.fastjson.annotation.JSONField;
 import lombok.Data;
@@ -6,7 +6,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
 /**
- * @Author: chendong
+ * @Author:xxx
  * @Date: 2019/3/11 14:54
  */
 @Data

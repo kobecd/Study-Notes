@@ -1,4 +1,4 @@
-package com.pingan.fimax;
+package xxx.xxx.xxx;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.pingan.fimax.config;
+package xxx.xxx.xxx.config;
 
 import java.io.IOException;
 import java.util.Map;
@@ -8,9 +8,9 @@ import javax.sql.DataSource;
 
 import com.alibaba.fastjson.JSONObject;
 import com.github.wnameless.json.flattener.JsonFlattener;
-import com.pingan.fimax.dto.QuartzProperties;
-import com.pingan.fimax.service.JobsListener;
-import com.pingan.fimax.service.TriggerListner;
+import xxx.xxx.xxx.dto.QuartzProperties;
+import xxx.xxx.xxx.service.JobsListener;
+import xxx.xxx.xxx.service.TriggerListner;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.config.PropertiesFactoryBean;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

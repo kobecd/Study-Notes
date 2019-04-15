@@ -1,4 +1,4 @@
-package com.pingan.fimax.enums;
+package xxx.xxx.xxx.enums;
 
 /**
  *

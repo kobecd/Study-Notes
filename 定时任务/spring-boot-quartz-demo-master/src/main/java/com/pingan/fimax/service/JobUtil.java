@@ -1,4 +1,4 @@
-package com.pingan.fimax.service;
+package xxx.xxx.xxx.service;
 
 import java.text.ParseException;
 import java.util.Date;
@@ -11,7 +11,7 @@ import org.springframework.scheduling.quartz.JobDetailFactoryBean;
 import org.springframework.scheduling.quartz.QuartzJobBean;
 import org.springframework.scheduling.quartz.SimpleTriggerFactoryBean;
 
-import com.pingan.fimax.config.PersistableCronTriggerFactoryBean;
+import xxx.xxx.xxx.config.PersistableCronTriggerFactoryBean;
 
 class JobUtil {
 	

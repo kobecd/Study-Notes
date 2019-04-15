@@ -1,4 +1,4 @@
-package com.pingan.fimax.util;
+package xxx.xxx.xxx.util;
 
 public class ServerResponseCode {
 	

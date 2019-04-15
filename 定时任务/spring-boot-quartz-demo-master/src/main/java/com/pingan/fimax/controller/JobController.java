@@ -1,15 +1,15 @@
-package com.pingan.fimax.controller;
+package xxx.xxx.xxx.controller;
 
 import java.util.Date;
 
-import com.pingan.fimax.job.JobTest;
+import xxx.xxx.xxx.job.JobTest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Lazy;
 import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.web.bind.annotation.*;
 
-import com.pingan.fimax.dto.ServerResponse;
-import com.pingan.fimax.service.JobService;
+import xxx.xxx.xxx.dto.ServerResponse;
+import xxx.xxx.xxx.service.JobService;
 
 
 @RestController
